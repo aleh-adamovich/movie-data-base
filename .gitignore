@@ -24,3 +24,6 @@ yarn-error.log*
 
 # text editors
 .idea
+
+# folders
+exercises
